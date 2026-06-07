@@ -1,6 +1,0 @@
-git init
-git add .
-git commit -m "Initial commit - Rule Based AI Chatbot"
-git branch -M main
-git remote add origin https://github.com/SyedZiyan/rule-based-ai-chatbot.git
-git push -u origin main
